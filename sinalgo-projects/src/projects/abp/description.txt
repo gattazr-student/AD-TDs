@@ -1,0 +1,5 @@
+--  TD2 : Alternate bit  --
+
+Implementation of the alternate bit error control
+
+Works with only 2 nodes. Node 1 sends data to node 2 with a bad connection and loss of some messages.

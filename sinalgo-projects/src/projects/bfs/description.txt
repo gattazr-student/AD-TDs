@@ -1,0 +1,3 @@
+--  TD3 : Autostabilisation  --
+
+Circulation d'un Token dans un anneau après autostabilisation
